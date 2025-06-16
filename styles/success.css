@@ -50,6 +50,7 @@
     height: 455px;
     position: relative;
     border-radius: 16px;
+    overflow: hidden;
 }
 
 .success__cover {
